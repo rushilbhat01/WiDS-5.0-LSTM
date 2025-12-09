@@ -1,5 +1,4 @@
-# WiDS-5.0-LSTM
-Winter in Data Science - Long Short Term Memory co-mentored by DAN.
+# Winter in Data Science - Long Short Term Memory
 # WEEK 1: **Python Basics!**
 
 For all those looking to learn python from scratch , you can begin with the material given below, while those of you who are already familiar with python and are just looking to revise can go through [this notebook](https://github.com/Fuse4444/WiDS-5.0-LSTM/blob/main/WEEK%201%20RESOURCES/Python_review.ipynb).  
