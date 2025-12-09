@@ -2,7 +2,7 @@
 Winter in Data Science - Long Short Term Memory co-mentored by DAN.
 # WEEK 1: **Python Basics!**
 
-For all those looking to learn python from scratch , you can begin with the material given below, while those of you who are already familiar with python and are just looking to revise can go through [this notebook](https://github.com/Amish462004/Blackoptions-price/blob/main/Week%201-Content/Python_review.ipynb).  
+For all those looking to learn python from scratch , you can begin with the material given below, while those of you who are already familiar with python and are just looking to revise can go through [this notebook](https://github.com/Fuse4444/WiDS-5.0-LSTM/blob/main/WEEK%201%20RESOURCES/Python_review.ipynb).  
 
 For the first week we will be covering some basic topics:
 * [Getting Started](#getting-started)
