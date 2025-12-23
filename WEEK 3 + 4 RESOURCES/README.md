@@ -23,3 +23,5 @@ Alternatively, you could watch [**this YouTube tutorial**](https://www.youtube.c
 You can additionally also follow a few detailed courses like https:[codebasics](https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO&si=u9QP0ToIJ8g2DT-7)
 Or MIT lecture series for the same https:[MIT Lecture](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&si=eJaVT41ls8D08PtV).
 Although this is completely optional!
+
+Will add more resources soon.
